@@ -3,20 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rushikesh's Profile</title>
+    <title>Rushikesh's GitHub Profile</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
-            margin: 20px;
+            margin: 0;
+            padding: 0;
             background-color: #f4f4f9;
             color: #333;
         }
-        h1 {
-            color: #0073e6;
+        header {
+            background: #0073e6;
+            color: #fff;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
         }
         section {
-            margin-bottom: 20px;
+            padding: 20px;
+            margin: 20px auto;
+            max-width: 800px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        section h2 {
+            color: #0073e6;
         }
         .highlight {
             color: #ff4500;
@@ -29,10 +45,21 @@
         a:hover {
             text-decoration: underline;
         }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #333;
+            color: #fff;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
     </style>
 </head>
 <body>
-    <h1>👋 Hi, I’m @Rushikeshsalunke</h1>
+    <header>
+        <h1>👋 Hi, I’m @Rushikeshsalunke</h1>
+    </header>
 
     <section>
         <h2>👀 Interests</h2>
@@ -52,9 +79,8 @@
     <section>
         <h2>📫 Contact Me</h2>
         <p>
-            How to reach me: <br>
-            Email: <a href="mailto:youremail@example.com">youremail@example.com</a> <br>
-            LinkedIn: <a href="https://linkedin.com/in/yourprofile">Your LinkedIn Profile</a> <br>
+            Email: <a href="mailto:youremail@example.com">youremail@example.com</a><br>
+            LinkedIn: <a href="https://linkedin.com/in/yourprofile">Your LinkedIn Profile</a><br>
             Twitter: <a href="https://twitter.com/yourhandle">@YourHandle</a>
         </p>
     </section>
@@ -73,5 +99,9 @@
         <h2>📈 GitHub Stats (Optional)</h2>
         <img src="https://github-readme-stats.vercel.app/api?username=Rushikeshsalunke&show_icons=true&theme=radical" alt="Rushikesh's GitHub Stats">
     </section>
+
+    <footer>
+        © 2025 by @Rushikeshsalunke. All rights reserved.
+    </footer>
 </body>
 </html>
