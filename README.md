@@ -1,30 +1,32 @@
 # 👋 Hi, I’m Rushikesh Salunke (@Rushikeshsalunke)
 
 ### 👀 Interests
-I’m interested in:
-- Web Development
-- Artificial Intelligence
-- Open Source Projects
+I’m passionate about:
+- Web Development   
+- Open Source Contributions  
 
-### 🌱 Currently Learning
-I’m currently learning:
-- Python
-- Machine Learning
-- Cloud Computing
+### 🌱 Currently Learning  
+Here’s what I’m diving into:  
+- Java for building robust and efficient applications  
+- Object-Oriented Programming to design flexible software systems  
+- Advanced frameworks like Spring and Hibernate for enterprise solutions  
+- Python for deeper programming skills  
+- Machine Learning to build intelligent systems  
+- Cloud Computing for scalable tech solutions  
 
-### 💞️ Collaboration
-I’m looking to collaborate on:
-- Innovative tech projects
-- Community initiatives
+### 💞️ Collaboration  
+I’m excited to team up on:  
+- Cutting-edge tech projects  
+- Initiatives that bring communities together  
 
-### 📫 Contact Me
-How to reach me:
-- Email: [youremail@example.com](mailto:youremail@example.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Twitter: [twitter.com/yourhandle](https://twitter.com/yourhandle)
+### 📫 Contact Me  
+Feel free to reach out:  
+- Email: [rushikesh.salunke@example.com](mailto:rushikesh.salunke@example.com)  
+- LinkedIn: [linkedin.com/in/rushikeshsalunke]((https://www.linkedin.com/in/rushikesh-salunke-096b81175/))  
+- Twitter: [twitter.com/rushikeshsalunke](https://twitter.com/rushikeshsalunke)  
 
-### 😄 Pronouns
-He/Him
+### 😄 Pronouns  
+He/Him  
 
-### ⚡ Fun Fact
-I can solve a Rubik's cube in under a minute and create amazing playlists!
+### ⚡ Fun Fact  
+I can solve a Rubik's cube in under a minute and curate playlists that are absolute fire! 🔥😊
