@@ -1,23 +1,23 @@
 # 👋 Hi, I’m Rushikesh Salunke (@Rushikeshsalunke)
 
 ### 👀 Interests
-I’m passionate about:
-- Web Development   
-- Open Source Contributions  
+I’m passionate about:  
+- Java Development  
+- Exploring Core2Web concepts  
+- Building innovative solutions 
 
 ### 🌱 Currently Learning  
 Here’s what I’m diving into:  
 - Java for building robust and efficient applications  
 - Object-Oriented Programming to design flexible software systems  
 - Advanced frameworks like Spring and Hibernate for enterprise solutions  
-- Python for deeper programming skills  
-- Machine Learning to build intelligent systems  
-- Cloud Computing for scalable tech solutions  
+- Advanced Java programming  
+- Software development best practices  
 
 ### 💞️ Collaboration  
 I’m excited to team up on:  
-- Cutting-edge tech projects  
-- Initiatives that bring communities together  
+- Java-based projects  
+- Open-source contributionsg communities together  
 
 ### 📫 Contact Me  
 Feel free to reach out:  
